@@ -9,3 +9,9 @@ then we make a docker compose file
 and the application will run on 
 
 http://localhost
+
+It will show hello from server1 
+and on refreshing
+it will show hello from server 2
+
+
